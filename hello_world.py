@@ -1,6 +1,9 @@
 print('You name?')
 q= input()
-print(q)
+
+print('how old are you')
+w= input()
+
 
 print('Hello world from '+ q +'!')
 
